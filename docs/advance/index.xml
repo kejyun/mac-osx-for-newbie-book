@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>進階 on Mac OSX 新手入門</title>
+    <link>https://mac-osx-for-newbie-book.kejyun.com/docs/advance/</link>
+    <description>Recent content in 進階 on Mac OSX 新手入門</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-TW</language>
+    <lastBuildDate>Wed, 31 Mar 2021 08:48:45 +0000</lastBuildDate><atom:link href="https://mac-osx-for-newbie-book.kejyun.com/docs/advance/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>變更截圖路徑</title>
+      <link>https://mac-osx-for-newbie-book.kejyun.com/docs/advance/change-screenshot-directory/</link>
+      <pubDate>Wed, 31 Mar 2021 08:48:45 +0000</pubDate>
+      
+      <guid>https://mac-osx-for-newbie-book.kejyun.com/docs/advance/change-screenshot-directory/</guid>
+      <description>變更儲存路徑 打開終端機 Terminal，輸入 defaults write com.apple.screencapture location，後方接著輸入你截圖要放置的路徑
+defaults write com.apple.screencapture location /path/to/screenshot/directory/ defaults write com.apple.screencapture location ~/Downloads/  我這邊的截圖路徑是放在 ~/Downloads/ 的路徑下，這樣的話可以直接使用 Dock 工具列下方的 Downloads 目錄捷徑去直接拿到截圖檔案
+  若為了避免 ~/Downloads/ 目錄下的檔案過亂，也可以自行建立目錄去存放截圖，然後把這個目錄自行移動到 Dock，這樣也可以達到同樣的效果（只是這樣下面就會多一個資料夾目錄了 lol）
+ 重啟系統 UI 在終端機 Terminal 輸入 killall SystemUIServer 關閉原本的 UI Server，讓系統 UI 可以吃到新的設定
+killall SystemUIServer 之後就可以截圖看看，新的目錄設定有沒有生效摟～
+參考資料  How to change where your Mac screenshots get saved  </description>
+    </item>
+    
+    <item>
+      <title>顯示隱藏檔</title>
+      <link>https://mac-osx-for-newbie-book.kejyun.com/docs/advance/show-hidden-file/</link>
+      <pubDate>Wed, 31 Mar 2021 08:48:45 +0000</pubDate>
+      
+      <guid>https://mac-osx-for-newbie-book.kejyun.com/docs/advance/show-hidden-file/</guid>
+      <description>有時候我們需要透過 Finder 找隱藏檔，可是 Finder 預設是不會顯示隱藏檔
+快捷鍵 在 Finder 中使用 Command（⌘） + Shift（⇧） + .，就可以切換隱藏檔顯示方式了
+參考資料  三招讓 Mac 顯示出隱藏檔案 | MacUknow  </description>
+    </item>
+    
+  </channel>
+</rss>
