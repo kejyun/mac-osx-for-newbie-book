@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://mac-osx-for-newbie-book.kejyun.com/sitemap.xml
