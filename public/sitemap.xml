@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://mac-osx-for-newbie-book.kejyun.com/docs/software/editor/atom/</loc>
+    <lastmod>2021-03-31T08:48:45+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mac-osx-for-newbie-book.kejyun.com/docs/software/draw/evolus-pencil/</loc>
+    <lastmod>2021-03-31T08:48:45+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mac-osx-for-newbie-book.kejyun.com/docs/software/manage/homebrew/</loc>
+    <lastmod>2021-03-31T08:48:45+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mac-osx-for-newbie-book.kejyun.com/docs/software/tool/iterm2/</loc>
+    <lastmod>2021-03-31T08:48:45+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mac-osx-for-newbie-book.kejyun.com/docs/software/developer/node-js/</loc>
+    <lastmod>2021-03-31T08:48:45+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mac-osx-for-newbie-book.kejyun.com/docs/software/database/sequel-pro/</loc>
+    <lastmod>2021-03-31T08:48:45+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mac-osx-for-newbie-book.kejyun.com/docs/software/manage/</loc>
+    <lastmod>2021-03-31T08:48:45+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mac-osx-for-newbie-book.kejyun.com/docs/software/editor/</loc>
+    <lastmod>2021-03-31T08:48:45+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mac-osx-for-newbie-book.kejyun.com/docs/trouble-shooting/disk-not-allow-mount/</loc>
+    <lastmod>2021-03-31T08:48:45+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mac-osx-for-newbie-book.kejyun.com/docs/advance/change-screenshot-directory/</loc>
+    <lastmod>2021-03-31T08:48:45+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mac-osx-for-newbie-book.kejyun.com/docs/question/install-software/</loc>
+    <lastmod>2021-03-30T08:48:45+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mac-osx-for-newbie-book.kejyun.com/docs/network/smb-connect-file-service/</loc>
+    <lastmod>2021-03-30T08:48:45+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mac-osx-for-newbie-book.kejyun.com/docs/hot-key/key-button/</loc>
+    <lastmod>2021-03-28T08:48:45+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mac-osx-for-newbie-book.kejyun.com/docs/software/editor/sublime/</loc>
+    <lastmod>2021-03-31T08:48:45+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mac-osx-for-newbie-book.kejyun.com/docs/software/manage/activity-moniter/</loc>
+    <lastmod>2021-03-31T08:48:45+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mac-osx-for-newbie-book.kejyun.com/docs/advance/show-hidden-file/</loc>
+    <lastmod>2021-03-31T08:48:45+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mac-osx-for-newbie-book.kejyun.com/docs/question/unknown-app-developer/</loc>
+    <lastmod>2021-03-30T08:48:45+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mac-osx-for-newbie-book.kejyun.com/docs/hot-key/screenshot/</loc>
+    <lastmod>2021-03-28T08:48:45+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mac-osx-for-newbie-book.kejyun.com/docs/software/tool/</loc>
+    <lastmod>2021-03-31T08:48:45+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mac-osx-for-newbie-book.kejyun.com/docs/hot-key/tab/</loc>
+    <lastmod>2021-03-28T08:48:45+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mac-osx-for-newbie-book.kejyun.com/docs/software/draw/</loc>
+    <lastmod>2021-03-31T08:48:45+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mac-osx-for-newbie-book.kejyun.com/docs/hot-key/window/</loc>
+    <lastmod>2021-03-28T08:48:45+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mac-osx-for-newbie-book.kejyun.com/docs/software/database/</loc>
+    <lastmod>2021-03-31T08:48:45+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mac-osx-for-newbie-book.kejyun.com/docs/hot-key/content/</loc>
+    <lastmod>2021-03-28T08:48:45+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mac-osx-for-newbie-book.kejyun.com/blog/hi-mac-os/</loc>
+    <lastmod>2020-11-04T09:19:42+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mac-osx-for-newbie-book.kejyun.com/docs/software/developer/</loc>
+    <lastmod>2021-03-31T08:48:45+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mac-osx-for-newbie-book.kejyun.com/docs/software/video/</loc>
+    <lastmod>2021-03-31T08:48:45+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mac-osx-for-newbie-book.kejyun.com/docs/hot-key/system/</loc>
+    <lastmod>2021-03-28T08:48:45+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mac-osx-for-newbie-book.kejyun.com/docs/hot-key/terminal/</loc>
+    <lastmod>2021-03-28T08:48:45+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mac-osx-for-newbie-book.kejyun.com/docs/hot-key/chines-punctuation/</loc>
+    <lastmod>2021-03-28T08:48:45+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mac-osx-for-newbie-book.kejyun.com/docs/software/manage/other-manage-software/</loc>
+    <lastmod>2021-03-31T08:48:45+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mac-osx-for-newbie-book.kejyun.com/docs/software/draw/other-draw-software/</loc>
+    <lastmod>2021-03-31T08:48:45+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mac-osx-for-newbie-book.kejyun.com/docs/software/</loc>
+    <lastmod>2021-03-31T08:48:45+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mac-osx-for-newbie-book.kejyun.com/docs/trouble-shooting/</loc>
+    <lastmod>2021-03-31T08:48:45+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mac-osx-for-newbie-book.kejyun.com/docs/resource/</loc>
+    <lastmod>2021-03-31T08:48:45+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mac-osx-for-newbie-book.kejyun.com/docs/advance/</loc>
+    <lastmod>2021-03-31T08:48:45+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mac-osx-for-newbie-book.kejyun.com/docs/</loc>
+    <lastmod>2021-03-30T08:48:45+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mac-osx-for-newbie-book.kejyun.com/docs/question/</loc>
+    <lastmod>2021-03-30T08:48:45+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mac-osx-for-newbie-book.kejyun.com/docs/network/</loc>
+    <lastmod>2021-03-30T08:48:45+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mac-osx-for-newbie-book.kejyun.com/contributors/kejyun/</loc>
+    <lastmod>2021-03-28T08:50:45+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mac-osx-for-newbie-book.kejyun.com/docs/hot-key/</loc>
+    <lastmod>2021-03-28T08:48:45+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mac-osx-for-newbie-book.kejyun.com/contributors/</loc>
+    <lastmod>2020-10-06T08:50:29+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mac-osx-for-newbie-book.kejyun.com/blog/</loc>
+    <lastmod>2020-10-06T08:49:55+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mac-osx-for-newbie-book.kejyun.com/</loc>
+    <lastmod>2020-10-06T08:47:36+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+</urlset>

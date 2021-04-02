@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>故障排除 on Mac OSX 新手入門</title>
+    <link>https://mac-osx-for-newbie-book.kejyun.com/docs/trouble-shooting/</link>
+    <description>Recent content in 故障排除 on Mac OSX 新手入門</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-TW</language>
+    <lastBuildDate>Wed, 31 Mar 2021 08:48:45 +0000</lastBuildDate><atom:link href="https://mac-osx-for-newbie-book.kejyun.com/docs/trouble-shooting/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>記憶卡無法 mount</title>
+      <link>https://mac-osx-for-newbie-book.kejyun.com/docs/trouble-shooting/disk-not-allow-mount/</link>
+      <pubDate>Wed, 31 Mar 2021 08:48:45 +0000</pubDate>
+      
+      <guid>https://mac-osx-for-newbie-book.kejyun.com/docs/trouble-shooting/disk-not-allow-mount/</guid>
+      <description>記憶卡無法 mount（external disk not mounted） 在升級 Mac OS 版本至 Mojave 版本後，原本的隨身記憶卡卻突然讀取不到了
+打開 Disk Utility 可以看到他狀態一直為 Unmount 狀態，就算點了上方的 Mount 按鈕也不理我
+為了解決這個問題可以點選上方的 First Aid，之後就會開始檢測此裝置
+檢測完後，就可以正常的 mount 記憶卡了
+參考資料  [Solved] How to fix external drive not mounting Mac and recover lost data? Mac SSD not Booting? Try 5 Fixes to Boot up Your Mac  </description>
+    </item>
+    
+  </channel>
+</rss>
