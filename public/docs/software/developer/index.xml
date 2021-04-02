@@ -1,24 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Developer on Mac OSX 新手入門</title>
-    <link>https://mac-osx-for-newbie-book.kejyun.com/docs/software/developer/</link>
-    <description>Recent content in Developer on Mac OSX 新手入門</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>zh-TW</language>
-    <lastBuildDate>Wed, 31 Mar 2021 08:48:45 +0000</lastBuildDate><atom:link href="https://mac-osx-for-newbie-book.kejyun.com/docs/software/developer/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Node.js</title>
-      <link>https://mac-osx-for-newbie-book.kejyun.com/docs/software/developer/node-js/</link>
-      <pubDate>Wed, 31 Mar 2021 08:48:45 +0000</pubDate>
-      
-      <guid>https://mac-osx-for-newbie-book.kejyun.com/docs/software/developer/node-js/</guid>
-      <description>安裝 NVM （Node Version Manager） 使用 brew 安裝 NVM
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Developer on Mac OSX 新手入門</title><link>/docs/software/developer/</link><description>Recent content in Developer on Mac OSX 新手入門</description><generator>Hugo -- gohugo.io</generator><language>zh-TW</language><lastBuildDate>Wed, 31 Mar 2021 08:48:45 +0000</lastBuildDate><atom:link href="/docs/software/developer/index.xml" rel="self" type="application/rss+xml"/><item><title>Node.js</title><link>/docs/software/developer/node-js/</link><pubDate>Wed, 31 Mar 2021 08:48:45 +0000</pubDate><guid>/docs/software/developer/node-js/</guid><description>安裝 NVM （Node Version Manager） 使用 brew 安裝 NVM
 $ brew install nvm 將下列指令加入 .bash_profile（或 .bashrc）檔案
 export NVM_DIR=~/.nvm source $(brew --prefix nvm)/nvm.sh 重新載入 .bash_profile 設定
 $ source .bash_profile 測試 nvm 指令
-kejyun@KeJyundeMBP:~$ nvm Node Version Manager Usage: nvm help Show this message nvm --version Print out the latest released version of nvm nvm install [-s] &amp;lt;version&amp;gt; Download and install a &amp;lt;version&amp;gt;, [-s] from source. Uses .nvmrc if available nvm uninstall &amp;lt;version&amp;gt; Uninstall a version nvm use &amp;lt;version&amp;gt; Modify PATH to use &amp;lt;version&amp;gt;.</description>
-    </item>
-    
-  </channel>
-</rss>
+kejyun@KeJyundeMBP:~$ nvm Node Version Manager Usage: nvm help Show this message nvm --version Print out the latest released version of nvm nvm install [-s] &amp;lt;version&amp;gt; Download and install a &amp;lt;version&amp;gt;, [-s] from source. Uses .nvmrc if available nvm uninstall &amp;lt;version&amp;gt; Uninstall a version nvm use &amp;lt;version&amp;gt; Modify PATH to use &amp;lt;version&amp;gt;.</description></item></channel></rss>
