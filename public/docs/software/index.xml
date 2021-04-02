@@ -1,1 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>常用軟體 on Mac OSX 新手入門</title><link>https://mac-osx-for-newbie-book.kejyun.com/docs/software/</link><description>Recent content in 常用軟體 on Mac OSX 新手入門</description><generator>Hugo -- gohugo.io</generator><language>zh-TW</language><lastBuildDate>Wed, 31 Mar 2021 08:48:45 +0000</lastBuildDate><atom:link href="https://mac-osx-for-newbie-book.kejyun.com/docs/software/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>常用軟體 on Mac OSX 新手入門</title>
+    <link>https://mac-osx-for-newbie-book.kejyun.com/docs/software/</link>
+    <description>Recent content in 常用軟體 on Mac OSX 新手入門</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-TW</language>
+    <lastBuildDate>Wed, 31 Mar 2021 08:48:45 +0000</lastBuildDate><atom:link href="https://mac-osx-for-newbie-book.kejyun.com/docs/software/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
