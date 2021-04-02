@@ -5,7 +5,459 @@
   <meta http-equiv="x-ua-compatible" content="ie=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   
+  
 
+  
+    
+
+<script type="application/ld+json">
+{
+    "@context":"http://schema.org",
+    "@type":"Article",
+    "headline":"Node.js",
+    "url":"https:\/\/mac-osx-for-newbie-book.kejyun.com\/docs\/software\/developer\/node-js\/",
+    "keywords":[
+    
+        
+          
+          "MacOS"
+        
+          , 
+          "軟體"
+        
+          , 
+          "Node.js"
+        
+    
+    ],
+    "image":{
+        "@type":"ImageObject",
+        "url" :
+        
+          "https:\/\/mac-osx-for-newbie-book.kejyun.com\/images\/logo.png",
+        
+        "width":"1200",
+        "height":"627"
+    },
+    "mainEntityOfPage":"True",
+    "publisher":{
+        "@type":"Organization",
+        "name":"KJ",
+        "url":"https:\/\/mac-osx-for-newbie-book.kejyun.com\/",
+        "logo":{
+            "@type":"ImageObject",
+            "url":"https:\/\/mac-osx-for-newbie-book.kejyun.com\/images\/logo.png",
+            "width":"357",
+            "height":"60"
+        }
+    },
+    "dateCreated":"2021-03-31T08:48:45\u002b00:00",
+    "datePublished":"2021-03-31T08:48:45\u002b00:00",
+    
+    
+    "author":"KJ",
+    "creator":"KJ",
+    
+    "dateModified":"2021-03-31T08:48:45\u002b00:00",
+    "articleSection":"TechArticle"
+}
+</script>
+
+  
+
+  
+    
+<script type="application/ld+json">
+	{
+		"@context":"http://schema.org",
+		"@type": "BlogPosting",
+		"image":
+		
+			"https:\/\/mac-osx-for-newbie-book.kejyun.com\/images\/logo.png",
+		
+		"url": "https:\/\/mac-osx-for-newbie-book.kejyun.com\/docs\/software\/developer\/node-js\/",
+		"headline": "Node.js",
+		"alternativeHeadline": "Node.js",
+		"dateCreated": "2021-03-31T08:48:45\u002b00:00",
+		"datePublished": "2021-03-31T08:48:45\u002b00:00",
+		"dateModified": "2021-03-31T08:48:45\u002b00:00",
+		"inLanguage": "zh-TW",
+		"isFamilyFriendly": "true",
+		"copyrightYear": "2021",
+		"copyrightHolder": "KJ",
+		"contentLocation": {
+			"@type": "Place",
+			"name": "Taipei City"
+		},
+		
+		"accountablePerson": {
+			"@type": "Person",
+			"name": "KJ",
+			"url": "https:\/\/mac-osx-for-newbie-book.kejyun.com\/"
+		},
+		"author": {
+			"@type": "Person",
+			"name": "KJ",
+			"url": "https:\/\/mac-osx-for-newbie-book.kejyun.com\/"
+		},
+		"creator": {
+			"@type": "Person",
+			"name": "KJ",
+			"url": "https:\/\/mac-osx-for-newbie-book.kejyun.com\/"
+		},
+		
+		"publisher": {
+			"@type": "Organization",
+			"name": "KJ",
+			"url": "https:\/\/mac-osx-for-newbie-book.kejyun.com\/",
+			"logo": {
+				"@type": "ImageObject",
+				"url": "https:\/\/mac-osx-for-newbie-book.kejyun.com\/images\/logo.png",
+				"width":"357",
+				"height":"60"
+			}
+		},
+		"mainEntityOfPage": "True",
+		"keywords": [ 
+			"MacOS", "軟體", "Node.js"
+		
+		],
+		"genre":["KJ"],
+		"articleSection": "KJ",
+		"articleBody": "安裝 NVM （Node Version Manager） 使用 brew 安裝 NVM\n$ brew install nvm 將下列指令加入 .bash_profile（或 .bashrc）檔案\nexport NVM_DIR=~\/.nvm source $(brew --prefix nvm)\/nvm.sh 重新載入 .bash_profile 設定\n$ source .bash_profile 測試 nvm 指令\nkejyun@KeJyundeMBP:~$ nvm Node Version Manager Usage: nvm help Show this message nvm --version Print out the latest released version of nvm nvm install [-s] \u0026lt;version\u0026gt; Download and install a \u0026lt;version\u0026gt;, [-s] from source. Uses .nvmrc if available nvm uninstall \u0026lt;version\u0026gt; Uninstall a version nvm use \u0026lt;version\u0026gt; Modify PATH to use \u0026lt;version\u0026gt;. Uses .nvmrc if available nvm run \u0026lt;version\u0026gt; [\u0026lt;args\u0026gt;] Run \u0026lt;version\u0026gt; with \u0026lt;args\u0026gt; as arguments. Uses .nvmrc if available for \u0026lt;version\u0026gt; nvm current Display currently activated version nvm ls List installed versions nvm ls \u0026lt;version\u0026gt; List versions matching a given description nvm ls-remote List remote versions available for install nvm deactivate Undo effects of `nvm` on current shell nvm alias [\u0026lt;pattern\u0026gt;] Show all aliases beginning with \u0026lt;pattern\u0026gt; nvm alias \u0026lt;name\u0026gt; \u0026lt;version\u0026gt; Set an alias named \u0026lt;name\u0026gt; pointing to \u0026lt;version\u0026gt; nvm unalias \u0026lt;name\u0026gt; Deletes the alias named \u0026lt;name\u0026gt; nvm reinstall-packages \u0026lt;version\u0026gt; Reinstall global `npm` packages contained in \u0026lt;version\u0026gt; to current version nvm unload Unload `nvm` from shell nvm which [\u0026lt;version\u0026gt;] Display path to installed node version. Uses .nvmrc if available Example: nvm install v0.10.32 Install a specific version number nvm use 0.10 Use the latest available 0.10.x release nvm run 0.10.32 app.js Run app.js using node v0.10.32 nvm exec 0.10.32 node app.js Run `node app.js` with the PATH pointing to node v0.10.32 nvm alias default 0.10.32 Set default node version on a shell Note: to remove, delete, or uninstall nvm - just remove ~\/.nvm, ~\/.npm, and ~\/.bower folders 使用 NVM 安裝 Node.js 找出目前所有可安裝的 Node.js 版本\n$ nvm ls-remote v0.11.8 v0.11.9 v0.11.10 v0.11.11 v0.11.12 v0.11.13 v0.11.14 v0.11.15 v0.11.16 安裝 Node.js (0.11.16)\n$ nvm install 0.11.16 指定nvm使用的 Node.js版本\nnvm use 0.11.16 預設使用 0.11.16 版本，否則每次重新連線登入，還需要重新 nvm use 一次\nnvm alias default 0.11.16 列出所有安裝的版本\n$ nvm ls -\u0026gt; v0.11.16 default -\u0026gt; 0.11.16 (-\u0026gt; v0.11.16) unstable -\u0026gt; 0.11 (-\u0026gt; v0.11.16) (default) 測試 Node.js\n$ node -v v0.11.16 測試 npm\n$ npm -v 2.3.0 "
+	}
+</script>
+
+  
+
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	  
+		
+		
+		
+		
+		
+	
+
+	
+	
+	
+	  
+		
+		
+		
+		
+		
+	
+
+	
+	
+	
+	  
+		
+		
+		
+		
+		
+	
+
+	
+	
+	
+	  
+		
+		
+		
+		
+		
+	
+
+	
+	
+	
+
+
+
+<script type="application/ld+json">
+{
+	"@context": "http://schema.org",
+	"@type": "BreadcrumbList",
+	"itemListElement":
+		[{
+			"@type": "ListItem",
+				"position": 1,
+				"item": {
+					"@id": "https:\/\/mac-osx-for-newbie-book.kejyun.com\/",
+					"name": "Home"
+				}
+		},
+		
+			
+		
+			
+				{
+					"@type": "ListItem",
+					"position":  2 ,
+					"item": {
+						"@id": "m\/\/docs",
+						"name": "Docs"
+					}
+				}
+				, 
+			
+		
+			
+				{
+					"@type": "ListItem",
+					"position":  3 ,
+					"item": {
+						"@id": "m\/\/docs\/software",
+						"name": "Software"
+					}
+				}
+				, 
+			
+		
+			
+				{
+					"@type": "ListItem",
+					"position":  4 ,
+					"item": {
+						"@id": "m\/\/docs\/software\/developer",
+						"name": "Developer"
+					}
+				}
+				, 
+			
+		
+			
+				{
+					"@type": "ListItem",
+					"position":  5 ,
+					"item": {
+						"@id": "m\/\/docs\/software\/developer\/node-js",
+						"name": "Node js"
+					}
+				}
+				
+			
+		
+	]
+}
+</script>
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+    
+
+
+<script type="application/ld+json">
+{
+"@context": "http://www.schema.org",
+"@type": "Person",
+"@id": "https:\/\/mac-osx-for-newbie-book.kejyun.com\/docs\/software\/developer\/node-js\/",
+"name": "KJ",
+"alternateName": "KJ",
+"nationality": "Taiwan",
+
+"affiliation": [
+	{
+		"@type": "Organization",
+		"name": "KJ",
+		"sameAs": [ "\n\n\n\n\n\"https://www.facebook.com/kejyunTaiwan\",\n\n\n\n\"https://github.com/kejyun\",\n\n\n\n\n\n\n\n\n\n\n\n\"https://kejyun.com/\"\n"
+		]
+  	}
+],
+
+"gender": "male",
+"Description": "IT Manager",
+"disambiguatingDescription": "Hi I\u0027m Web Developer in Taiwan",
+
+"worksFor": [
+	{
+		"@type": "Organization",
+		"name": "KJ",
+		"sameAs": [ "\n\n\n\n\n\"https://www.facebook.com/kejyunTaiwan\",\n\n\n\n\"https://github.com/kejyun\",\n\n\n\n\n\n\n\n\n\n\n\n\"https://kejyun.com/\"\n"
+		]
+	}
+],
+"url": "https:\/\/mac-osx-for-newbie-book.kejyun.com\/",
+"image": "https:\/\/mac-osx-for-newbie-book.kejyun.com\/company\/team\/KeJyun.png",
+
+"sameAs": [ "\n\n\n\n\n\n\"https://ca.linkedin.com/in/kejyun/en\",\n\n\n\"https://github.com/kejyun\",\n\n\n\n\n\n\n\n\n\n\n\n\"\"\n"
+	]
+}
+</script>
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+    
+
+<script type="application/ld+json">
+[
+	{
+		"@context": "http://schema.org",
+		"@type": "Webpage",
+		"specialty": "Mac OSX 新手入門",
+		"mainContentOfPage": {
+			"@context": "http://schema.org/",
+			"@type": "WebPageElement",
+			"cssSelector": ".body-content"
+		},
+		"primaryImageOfPage": "https:\/\/mac-osx-for-newbie-book.kejyun.com\/images\/bg.jpg"
+	},
+	{
+		"@context": "http://schema.org",
+		"@type": "WebSite",
+		"@id": "https:\/\/mac-osx-for-newbie-book.kejyun.com\/",
+		"additionalType": ["CreativeWork", "Person"],
+		"url": "https:\/\/mac-osx-for-newbie-book.kejyun.com\/",
+		"name": "Mac OSX 新手入門",
+		"alternateName": "Mac OSX 新手入門",
+		"headline": "Mac OSX 新手入門",
+		"image": "https:\/\/mac-osx-for-newbie-book.kejyun.com\/images\/bg.jpg",
+		"inLanguage": "zh-TW",
+		"author": "",
+		"description": "Mac OSX 新手入門",
+		"disambiguatingDescription": "Mac OSX 新手入門",
+		"isFamilyFriendly": "http://schema.org/True",
+		"contentRating": "NR",
+		"sourceOrganization": "Mac OSX 新手入門",
+		"publisher": {
+		  "@type": "Organization",
+		  "name": "Mac OSX 新手入門",
+		  "logo": {
+		    "@type": "ImageObject",
+		    "url": "https:\/\/mac-osx-for-newbie-book.kejyun.com\/images\/logo.png",
+		    "height": 60,
+		    "width": 107
+		  }
+		},
+		"mainEntity": {
+			"@context": "http://schema.org",
+			"@type": "localBusiness",
+			"name": "Mac OSX 新手入門",
+			"image":"https:\/\/mac-osx-for-newbie-book.kejyun.com\/images\/logo.png",
+			
+			"priceRange":"$$",
+			
+
+			
+			"address": {
+				"@type": "PostalAddress",
+				"streetAddress": "Taipei street",
+				"addressLocality": "Taipei City",
+				"addressRegion": "Taipei",
+				"addressCountry": "Taiwan",
+				"postalCode": "100"
+			},
+			"aggregateRating": {
+				"@type": "AggregateRating",
+				"ratingValue": "4.5",
+				"reviewCount": "50"
+			}
+		},
+		"potentialAction": {
+			"@type": "SearchAction",
+			"target": "https:\/\/mac-osx-for-newbie-book.kejyun.com\/?search={search_term}",
+			"query-input": "required name=search_term"
+		},
+		"keywords":[
+			"Mac OSX 教學", "Mac OSX 小技巧", "KJ", "kejyun"
+		],
+		"hasPart": [
+			{
+				"@context": "http://schema.org/",
+				"@type": "WPHeader",
+				"@id": "#header",
+				"headline": "Mac OSX 新手入門",
+				"cssSelector": "#header",
+				"potentialAction": [],
+				"@graph":
+				[
+					{
+						"@context": "https://schema.org",
+						"@type":"SiteNavigationElement",
+						"@id":"#header",
+						"name": "",
+						"url": "https:\/\/mac-osx-for-newbie-book.kejyun.com\/docs\/hot-key\/key-button\/"
+					}]
+			},
+			{
+				"@context": "http://schema.org/",
+				"@type": "WPSidebar",
+				"cssSelector": "#sidebar",
+				"citation": [
+				"https:\/\/mac-osx-for-newbie-book.kejyun.com\/docs\/hot-key\/key-button\/"
+				]
+			},
+			{
+				"@context": "http://schema.org/",
+				"@type": "WPFooter",
+				"cssSelector": ".footer",
+				"@id": "#footer",
+				"copyrightHolder":"Mac OSX 新手入門",
+				"publisher": "Mac OSX 新手入門",
+				"copyrightYear":"2021"
+			}
+		]
+	}
+]
+</script>
+
+  
+
+  
+  
   <link rel="preload" as="font" href="https://mac-osx-for-newbie-book.kejyun.com/fonts/vendor/jost/jost-v4-latin-regular.woff2" type="font/woff2" crossorigin>
 <link rel="preload" as="font" href="https://mac-osx-for-newbie-book.kejyun.com/fonts/vendor/jost/jost-v4-latin-700.woff2" type="font/woff2" crossorigin>
 
@@ -334,6 +786,21 @@ v0.11.16
     </div>
   </div>
 </footer>
+
+
+
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-104093356-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
 
     
     <script src="https://mac-osx-for-newbie-book.kejyun.com/js/highlight.min.e9108a0b3c03958002f9650a02a3c3dcc2c69459b908c8440f7d2ad360aa0f216c0023ba6192f82a8bdbd996bd314e1e0cff114a8f54a0166630560d0be8ede7.js" integrity="sha512-6RCKCzwDlYAC&#43;WUKAqPD3MLGlFm5CMhED30q02CqDyFsACO6YZL4Kovb2Za9MU4eDP8RSo9UoBZmMFYNC&#43;jt5w==" crossorigin="anonymous" defer></script>
