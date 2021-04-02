@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>快捷鍵 on Mac OSX 新手入門</title><link>https://mac-osx-for-newbie-book.kejyun.com/docs/hot-key/</link><description>Recent content in 快捷鍵 on Mac OSX 新手入門</description><generator>Hugo -- gohugo.io</generator><language>zh-TW</language><lastBuildDate>Sun, 28 Mar 2021 08:48:45 +0000</lastBuildDate><atom:link href="https://mac-osx-for-newbie-book.kejyun.com/docs/hot-key/index.xml" rel="self" type="application/rss+xml"/><item><title>按鍵</title><link>https://mac-osx-for-newbie-book.kejyun.com/docs/hot-key/key-button/</link><pubDate>Sun, 28 Mar 2021 08:48:45 +0000</pubDate><guid>https://mac-osx-for-newbie-book.kejyun.com/docs/hot-key/key-button/</guid><description>按鍵說明 Command（⌘） Option（⌥） Control（⌃） Shift（⇧） Capslock（⇪）</description></item><item><title>截圖</title><link>https://mac-osx-for-newbie-book.kejyun.com/docs/hot-key/screenshot/</link><pubDate>Sun, 28 Mar 2021 08:48:45 +0000</pubDate><guid>https://mac-osx-for-newbie-book.kejyun.com/docs/hot-key/screenshot/</guid><description>截圖熱鍵 擷取的圖片預設會放在桌面
+擷取完整畫面 Command（⌘）+shift+3
+擷取部份畫面 Command（⌘）+shift+4
+用滑鼠選擇你要擷取的畫面大小
+擷取整個視窗（有陰影） Command（⌘）+shift+4+空白鍵
+選擇要擷取的視窗
+擷取整個視窗（無陰影） Command（⌘）+shift+4+空白鍵
+Option + 選擇要擷取的視窗</description></item><item><title>標籤頁</title><link>https://mac-osx-for-newbie-book.kejyun.com/docs/hot-key/tab/</link><pubDate>Sun, 28 Mar 2021 08:48:45 +0000</pubDate><guid>https://mac-osx-for-newbie-book.kejyun.com/docs/hot-key/tab/</guid><description>標籤頁 新增標籤頁 Command（⌘）+T
+這個熱鍵在Finder、瀏覽器（Chrome）皆可以使用
+關閉標籤頁 Command（⌘）+W
+新增視窗 Command（⌘）+N</description></item><item><title>視窗控制</title><link>https://mac-osx-for-newbie-book.kejyun.com/docs/hot-key/window/</link><pubDate>Sun, 28 Mar 2021 08:48:45 +0000</pubDate><guid>https://mac-osx-for-newbie-book.kejyun.com/docs/hot-key/window/</guid><description>視窗控制 單獨視窗縮到最小 Command（⌘）+M
+所有視窗縮到最小 Option+Command（⌘）+M
+隱藏視窗 Command（⌘）+H
+不想要關掉應用程式，臨時想要先隱藏等稍後再用時可以使用
+全螢幕視窗切換 Command（⌘）+Control+F
+想要把工作中的視窗放大至全螢幕，或縮回預設大小時可以使用</description></item><item><title>內容</title><link>https://mac-osx-for-newbie-book.kejyun.com/docs/hot-key/content/</link><pubDate>Sun, 28 Mar 2021 08:48:45 +0000</pubDate><guid>https://mac-osx-for-newbie-book.kejyun.com/docs/hot-key/content/</guid><description>內容 複製 Command（⌘）+C
+貼上 Command（⌘）+V
+剪下 Command（⌘）+X
+復原 Command（⌘）+Z
+取消復原 Command（⌘）+Y
+放大字體 Command（⌘）++（加號）
+網頁或編輯器字體太小難以閱讀時，可以使用此熱鍵將字體放大
+縮小字體 Command（⌘）+-（減號）
+重新整理 Command（⌘）+R
+在 Windows 時常常是用 F5 去重新整理網頁，但在 OS X 則沒有 F5 這個熱鍵
+瀏覽器將標籤網頁加入書籤 Command（⌘）+D
+瀏覽器將所有標籤網頁加入書籤 Command（⌘）+Shift+D
+搜尋文字 Command（⌘）+F
+偏好設定 Command（⌘）+，（逗號）
+關閉整個軟體 Command（⌘）+Q
+刪除游標右邊文字 Fn+Delete
+在 Windows 中有 Delete（刪除游標右邊文字）及 Backspace（刪除游標左邊文字），但是在 OS X 的 Delete 則是 Windows 中的 Backspace（刪除游標左邊文字） 功能，若我們要有 Windows 中的 Delete（刪除游標右邊文字） 功能則需要自己加按 Fn 功能鍵</description></item><item><title>系統</title><link>https://mac-osx-for-newbie-book.kejyun.com/docs/hot-key/system/</link><pubDate>Sun, 28 Mar 2021 08:48:45 +0000</pubDate><guid>https://mac-osx-for-newbie-book.kejyun.com/docs/hot-key/system/</guid><description>系統 關閉螢幕 Shift+Control+退出鍵
+退出鍵：鍵盤右上角、退出光碟鍵
+休眠 Command（⌘）+Option+退出鍵
+重新開機 Control+Command（⌘）+退出鍵
+關機 Control+Option+Command（⌘）+退出鍵
+登出目前帳號 Shift+Command（⌘）+Q
+開啟目前執行的軟體列表 Option+Command（⌘）+退出鍵</description></item><item><title>終端機</title><link>https://mac-osx-for-newbie-book.kejyun.com/docs/hot-key/terminal/</link><pubDate>Sun, 28 Mar 2021 08:48:45 +0000</pubDate><guid>https://mac-osx-for-newbie-book.kejyun.com/docs/hot-key/terminal/</guid><description>在 Finder 中快速資料夾的目錄到終端機（Terminal）中 在我們需要用終端機（Terminal）處理「某個路徑下」資料夾的東西時，我們常常需要在終端機內 cd、cd 的一直打，指到到了我們要去的目錄，這樣對我們來說是很沒有效率的。
+我們可以透過設定「系統偏好設定」下的「鍵盤快捷鍵」的方式，讓我們在能夠在 Finder 直接開啟 Termianl 並到指定的資料夾下。
+首先到「系統偏好設定」下的「鍵盤」：
+切換到「快速鍵」這個頁籤並於左方選擇「服務」，然後將「服務」下的「新增位於檔案夾位置的端終機標籤頁」打勾即可～
+之後在 Finder 視窗中的資料夾按滑鼠右鍵，並從選單中選擇「服務」項目下的「新增位於檔案夾位置的端終機標籤頁」，就能快速從這個路徑下開啟「終端機」了：
+或下方「路徑列」中的任一節點也可以用終端機開啟：</description></item><item><title>中文全形標點符號</title><link>https://mac-osx-for-newbie-book.kejyun.com/docs/hot-key/chines-punctuation/</link><pubDate>Sun, 28 Mar 2021 08:48:45 +0000</pubDate><guid>https://mac-osx-for-newbie-book.kejyun.com/docs/hot-key/chines-punctuation/</guid><description>在輸入中文文章的時候，能夠快速的輸入我們想要出現的全型標點符號，是會影響到我們文字輸入的速度及流暢度
+逗號（，） Shift+,
+句號（。） Shift+.
+問號（？） Shift+/
+冒號（：） Shift+;
+分號（；） Option+;
+頓號（、） \
+驚嘆號（！） Shift+1
+上引號（「） [
+下引號（」） ]
+左括號（（） Shift+9
+右括號（）） Shift+0
+左書名號（《） Shift+Option+,
+右書名號（》） Shift+Option+.
+全形空格（　） Shift+Option+空白鍵
+標點符號表 Shift+Option+B
+參考資料 Mac新手筆記0005：如何快速在mac輸入全形標點符號和空格 Mac OS X 10.5：中文輸入法鍵盤快速鍵 不用再問怎麼打，Mac 標點符號超快輸入學習方式！</description></item></channel></rss>
